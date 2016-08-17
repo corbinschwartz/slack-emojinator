@@ -41,3 +41,10 @@ python upload.py ${EMOJI_DIR}/*.png
 ```
 
 :sparkles:
+
+
+#Emojifier
+## Converting to Tiles
+./emojify.sh filename dimension (optionally include -u to run the upload automatically)
+## Manually Uploading
+./upload-emojified.sh name
